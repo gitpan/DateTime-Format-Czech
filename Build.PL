@@ -18,7 +18,7 @@ my %module_build_args = (
     'Tomáš Znamenáček <zoul@fleuron.cz>'
   ],
   'dist_name' => 'DateTime-Format-Czech',
-  'dist_version' => '0.1',
+  'dist_version' => '0.2',
   'license' => 'perl',
   'module_name' => 'DateTime::Format::Czech',
   'recommends' => {},

@@ -1,6 +1,6 @@
 package DateTime::Format::Czech;
 BEGIN {
-  $DateTime::Format::Czech::VERSION = '0.1';
+  $DateTime::Format::Czech::VERSION = '0.2';
 }
 
 use utf8;

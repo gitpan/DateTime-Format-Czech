@@ -20,4 +20,4 @@ requires:
   utf8: 0
 resources:
   repository: http://github.com/zoul/DateTime-Format-Czech
-version: 0.1
+version: 0.2
